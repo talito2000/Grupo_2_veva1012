@@ -1,10 +1,10 @@
-Tematica del Ecommerce: Distribuidora de alcohol.
+Temática del Ecommerce: Distribuidora de alcohol.
 
-categorias: Cervezas, Vinos, Espumantes, Bebidas destiladas y Aperitivos.
+Categorías: Cervezas, Vinos, Espumantes, Bebidas destiladas y Aperitivos.
 
-Publico dirigido: a mayores de 18 años.
+Publico dirigido: Mayores de 18 años.
 
-Metodos de pago.
+Métodos de pago.
 
 Ofertas.
 
@@ -13,6 +13,8 @@ Barra de busquedas e historial.
 Ayuda y contactos : Redes sociales.
 
 Zona de distribucion: Villa Urquiza, Nuñez, Belgrano, Villa Pueyrredón, Saavedra.
+
+Tablero Trello: https://trello.com/b/4xznhUxk/veva1012
 
 Referencias:
 https://listado.mercadolibre.com.ar/whiskey#D[A:whiskey
