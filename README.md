@@ -12,7 +12,7 @@ Barra de busquedas e historial.
 
 Ayuda y contactos : Redes sociales.
 
-Zona de distribucion: Villa Urquiza, Nuñez, Belgrano, Villa Devoto, Savedra.
+Zona de distribucion: Villa Urquiza, Nuñez, Belgrano, Villa Pueyrredón, Saavedra.
 
 Referencias:
 https://listado.mercadolibre.com.ar/whiskey#D[A:whiskey
